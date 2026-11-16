@@ -17,16 +17,6 @@ This project uses a synthetic SaaS dataset to explore business performance and s
  4. Data Modelling
  5. Data Analysis & Visualisation
   
-- Dataset:
-The Excel workbook contains five tables:
-
-Table             Records
-Customers           1,800
-Plans                   4
-Subscriptions       1,800
-Payments           21,413
-Plan_Changes          573
-
 - Business Use:
 The dashboards help explore revenue trends, compare pricing plans, understand customer plan changes, and review discount patterns. These insights can support decisions by management, finance, marketing, and customer-success teams.
 
