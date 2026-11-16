@@ -11,11 +11,11 @@ This project uses a synthetic SaaS dataset to explore business performance and s
 4. Pricing Recommendations --- Pricing-plan comparisons, revenue contribution, and subscription performance.
    
 - Tools & Skills:
-- Microsoft Power BI
-- Power Query
-- DAX
-- Data Modelling
-- Data Analysis & Visualisation
+ 1. Microsoft Power BI
+ 2. Power Query
+ 3. DAX
+ 4. Data Modelling
+ 5. Data Analysis & Visualisation
   
 - Dataset:
 The Excel workbook contains five tables:
@@ -30,7 +30,7 @@ Plan_Changes          573
 - Business Use:
 The dashboards help explore revenue trends, compare pricing plans, understand customer plan changes, and review discount patterns. These insights can support decisions by management, finance, marketing, and customer-success teams.
 
-# Note: This is a portfolio project using synthetic data. Findings are illustrative and do not represent an actual company's performance.
+- Note: This is a portfolio project using synthetic data. Findings are illustrative and do not represent an actual company's performance.
 
 # Author
 Sanika Dixit | Aspiring Data Analyst
